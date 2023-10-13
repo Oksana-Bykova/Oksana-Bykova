@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47wrfhojzszi3n4ur9odp9fwzd62ftrxblom44h9yf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="600"/>
+  <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47zi7rrfm919y1gdu83qsp9cvlugpu3o9d77aue5mq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="300"/>
 </div>
 <div id="header" align="center"
   <h1>
@@ -11,7 +11,7 @@
 ---
 
 ### О себе:
-Я начиающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Начиающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Изучала JavaScript в ЯндексПрактикуме.
 
 - :zap: Самостоятельно изучаю TypeScript.
