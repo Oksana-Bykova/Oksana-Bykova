@@ -3,11 +3,10 @@
   
   <h1>
     hey there 👋
-    <img src="https://media1.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47nbnw2mbmnxq6r5cboky8b35rsfdjyr3gbsdfrlim&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"/>
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47wrfhojzszi3n4ur9odp9fwzd62ftrxblom44h9yf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 ---
