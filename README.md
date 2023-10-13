@@ -29,3 +29,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
 </div>
+
+
+---
+
+
+### :fire: Моя статистика :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oksana-Bykova&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oksana-Bykova)](https://github.com/anuraghazra/github-readme-stats)
