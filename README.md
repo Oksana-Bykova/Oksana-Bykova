@@ -1,17 +1,16 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=ecf05e47rfq2e6h00z570v4567xev26fcvv3f1dajn62w8pq&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
-  
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47wrfhojzszi3n4ur9odp9fwzd62ftrxblom44h9yf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="600"/>
+</div>
+<div id="header" align="center"
   <h1>
     hey there 👋
   </h1>
 </div>
-<div align="center">
-  <img src="https://media1.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47wrfhojzszi3n4ur9odp9fwzd62ftrxblom44h9yf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
-</div>
 
 ---
 
-### :О себе:
+### О себе:
 Я начиающий веб разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Изучала JavaScript в ЯндексПрактикуме.
 
@@ -19,7 +18,7 @@
 
 ---
 
-### :Языки и технологии :
+### Языки и технологии :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
