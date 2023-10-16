@@ -11,7 +11,7 @@
 ---
 # **Связаться со мной**
 <div>
-  <a href="https://t.me/@oksana_ishkulova">
+  <a href="https://t.me/oksana_ishkulova">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
