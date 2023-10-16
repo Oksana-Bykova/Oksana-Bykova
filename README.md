@@ -4,7 +4,20 @@
 </div>
 <div id="header" align="center">
   
-# **Hey there** 👋
+# **Hey there, I'm Oksana** 👋
+# Web developer
+</div>
+
+---
+# **Связаться со мной**
+<div>
+  <a href="t.me/@oksana_ishkulova">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
+  <a href="mailto:ishkulova.oksana1@yandex.ru"> 
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+  </a>
   
 </div>
 
